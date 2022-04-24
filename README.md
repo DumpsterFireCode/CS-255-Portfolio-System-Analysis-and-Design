@@ -1,1 +1,3 @@
 # CS-255-Portfolio-System-Analysis-and-Design
+
+The client was a company owner who wanted to create a web application which helped users learn to drive. The users had access to schedule driving tests, purchase packages as well as take online test to further their education. I beleive I handled capturing the requirements for the project quite well. If I had to choose an item to improve upon, I would definitely choose my use case diagram which I believe captured most of what was required, however did not fully encompass the full requirements. I used a few techniques to ensure I captured and designed the best system that I could. One such technique is that I created detailed strucutre charts, especaily for the UML class diagram. 
